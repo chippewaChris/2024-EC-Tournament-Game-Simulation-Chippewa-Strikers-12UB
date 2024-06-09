@@ -8,7 +8,7 @@ The purpose of this program is to provide an estimate of the likelihood that a s
 
 ## How It Works
 1. **Simulating Games**:
-   - The program simulates the remaining soccer games in the tournament many times (10,000 times by default).
+   - The program simulates the remaining soccer games in the tournament many times (1,000,000 times by default).
    - For each game, it decides whether a team wins, loses, or draws based on their current standings and points.
 
 2. **Updating Standings**:
